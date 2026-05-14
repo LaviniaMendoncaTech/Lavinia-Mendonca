@@ -6,3 +6,4 @@
 - 📫 Como entrar em contato comigo: telefone: (31) 99183-4606 ou e-mail: lavinia.mendonca.tech@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: inglês intermediário
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
